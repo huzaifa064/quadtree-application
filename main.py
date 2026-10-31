@@ -1,9 +1,5 @@
 """
 QuadTree - Computer Graphics 1, Programming Assignment 1
-Pure Python 3 + tkinter (standard library only, no external libraries).
-
-Run:  python quadtree.py
-
 Quadrant numbering (as in the assignment picture):
         IV | I
         ---+---

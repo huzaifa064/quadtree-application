@@ -1,7 +1,9 @@
 COMPUTER GRAPHICS (1) - PROGRAMMING ASSIGNMENT NO. 1 Topic: QuadTree
 
 README - USER INSTRUCTIONS
+## Application Screenshot
 
+![QuadTree Application](Output.png)
 1.  RUNNING THE APPLICATION Make sure Python 3 is installed. Tkinter is
     used for the graphical interface and is normally included with
     Python.
